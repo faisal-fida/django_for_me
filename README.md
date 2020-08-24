@@ -1,6 +1,6 @@
 # django_for_me
 
-<ul>That's my <ui>First project</ui> using Django for this.</ul>
+That's my First project using Django for this.
 </br>
 </br>
 <centre>
